@@ -24,7 +24,7 @@
     "@mui/x-charts": "^8.1.0",
     "@mui/x-data-grid": "^8.1.0",
     "@mui/x-date-pickers": "^8.1.0",
-    "@xyflow/react": "^12.6.0",
+    "@xyflow/react": "^12.8.4",
     "ace-builds": "^1.40.1",
     "anser": "^2.3.2",
     "dayjs": "^1.11.13",
