@@ -22,7 +22,7 @@
     "@mui/material": "^7.0.2",
     "@mui/utils": "^7.0.2",
     "@mui/x-charts": "^8.1.0",
-    "@mui/x-data-grid": "^8.1.0",
+    "@mui/x-data-grid": "^8.11.1",
     "@mui/x-date-pickers": "^8.1.0",
     "@xyflow/react": "^12.6.0",
     "ace-builds": "^1.40.1",
